@@ -5,7 +5,8 @@
 
 Un pequeño repositorio donde aprenderemos un par de trucos para trabajar rápidamente con Visual Studio Code.
 
-También hay un par de extensiones bastante útiles que les pueden servir. *[Curso]*(https://github.com/Klerith/curso-VSCode/blob/master/README.md)
+También hay un par de extensiones bastante útiles que les pueden servir. 
+* [Curso](https://github.com/Klerith/curso-VSCode/blob/master/README.md)
 
 ## Extensiones
 
